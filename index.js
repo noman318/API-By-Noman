@@ -92,7 +92,7 @@ app.delete("/user/delete/type/:userType", async (req, res) => {
   }
 });
 
-app.listen(8000, () =>
+app.listen(process.env.PORT, () =>
   connectDB()
     .then(() => console.log("Server is Running 🚀"))
     .catch((error) => console.log(error))
