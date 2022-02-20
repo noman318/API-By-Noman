@@ -2,4 +2,4 @@
 
 
 ## Image of the Deployed site
-https://drive.google.com/file/d/1SBanvfyThvmUy0L43q0C89HdQ131lkgk/view?usp=sharing
+https://drive.google.com/file/d/1meF6ZKRUt6KVsGVt6B4QSb6BgWHVcwVp/view?usp=sharing
